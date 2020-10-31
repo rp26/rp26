@@ -3,10 +3,15 @@
         <title>
             Rahul's Gift List
         </title>
-        <link rel="stylesheet" href="styles.css">
+        <style>
+        body{
+            background-color:yellow;
+            }
+        </style>
+        
         <body>
-            <h1>My Birthday List</h1>
-            <h2>Rahul</h2>
+            <h1>Rahul</h1>
+            <h2>My Birthday List</h2>
 
                 <p>Minecraft Dungeons <a href="https://www.microsoft.com/en-us/p/minecraft-dungeons-windows-10/9p8mk4nc0ljb?activetab=pivot:overviewtab" target="_blank">microsoft.com, $19.99</a> <br>
                 Ice Age Scratt's Nutty Adventure <a href="https://www.microsoft.com/en-us/p/ice-age-scrats-nutty-adventure/c210zqr369cw?activetab=pivot:overviewtab" target="_blank">microsoft.com, $40.00</a><br>
