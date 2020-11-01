@@ -17,9 +17,7 @@
             <h2>My Birthday List</h2>
 
                 <p>Minecraft Dungeons <a href="https://www.microsoft.com/en-us/p/minecraft-dungeons-windows-10/9p8mk4nc0ljb?activetab=pivot:overviewtab" target="_blank">microsoft.com, $19.99</a> <br>
-                Ice Age Scratt's Nutty Adventure <a href="https://www.microsoft.com/en-us/p/ice-age-scrats-nutty-adventure/c210zqr369cw?activetab=pivot:overviewtab" target="_blank">microsoft.com, $40.00</a><br>
                 Galactic Adventures Character & Level Pack <a href="https://www.microsoft.com/en-us/p/galactic-adventures-character-level-pack/bp6qszkwvcx0?activetab=pivot:overviewtab" target="_blank">microsoft.com, FREE</a><br>
-                Adventures with Mario Starter Course Lego <a href="https://www.lego.com/en-us/product/adventures-with-mario-starter-course-71360" target="_blank">lego.com, $59.99</a><br>
                 Fitbit Versa 3 <a href="https://www.fitbit.com/global/us/products/smartwatches/versa3" target="_blank">fitbit.com, $229.99</a><br>
                 Cell Phone A71, or moto z4, or moto z5 if it comes out-next year <a href="https://www.walmart.com/ip/Samsung-Galaxy-A71-5G-128GB-Black/149605616?wmlspartner=wlpa&selectedSellerId=0&&adid=22222222227361050904&wl0=&wl1=g&wl2=c&wl3=468459474871&wl4=aud-430887228898:pla-965966235351&wl5=9001881&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=149605616&veh=sem&gclid=CjwKCAjwrKr8BRB_EiwA7eFapizac-wWwTUe8vsfVIRBbKvDb7d-xiJppdhrEgevNEnbSIQpyz9ShhoCbQoQAvD_BwE" target="_blank">A71, </a> <a href="https://www.verizon.com/smartphones/moto-z4/?sku=sku3510197" target="_blank">moto z4</a>
                 </p>
